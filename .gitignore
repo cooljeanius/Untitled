@@ -7,3 +7,7 @@ build
 Debug/*
 */Debug
 *.dSYM
+*.o
+*.cbtemp
+bin/*
+*/bin
